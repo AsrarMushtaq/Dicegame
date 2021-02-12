@@ -1,0 +1,24 @@
+body{
+  background-color: #393E46;
+  text-align: center;
+}
+h1,p,h3{
+  font-family: 'Lemonada', cursive;
+  color: #4ECCA3;
+  margin-top : 50px;
+  font-size: 3rem;
+}
+.container-fluid{
+  width : 50%;
+}
+.btn{
+  margin :3% auto;
+  width: 10%;
+  font-weight: bold;
+
+}
+
+.imgdice1, .imgdice2{
+  height: 200px;
+  width: 200px;
+}
